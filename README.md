@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on starter level project
-- 📫 How to reach me jayantingle13@gmail.com/ insta-mr.jayu_13
+- 📫 How to reach me jayantingle13@gmail.com/ insta- mr.jayu_13
 - 😄 Pronouns: JAY
 - ⚡ Fun fact: ...
 
