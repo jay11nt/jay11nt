@@ -2,7 +2,7 @@
  
 - 👀 I’m interested in coding
   
-- 🌱 I’m currently learning Spring Boot, Java, complete backend
+- 🌱 currently working technologies-Spring Boot, Java, Hibernate, complete backend
  
 - 💞️ I’m looking to collaborate on starter level project
  
