@@ -2,9 +2,9 @@
  
 - 👀 I’m interested in coding
   
-- 🌱 currently working technologies-Spring Boot, Java, Hibernate, complete backend
+- 🌱 currently working on technologies Boot, Java, Hibernate, complete backend
  
-- 💞️ I’m looking to collaborate on starter level project
+- 💞️ I’m looking to collaborate on a level project
  
 - 📫 How to reach me jayantingle13@gmail.com/ insta- mr.jayu_13
  
