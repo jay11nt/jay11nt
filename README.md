@@ -1,4 +1,4 @@
--  Hi, I’m @jayant
+-  Hi, I’m @jayant.
  
 - 👀 I’m interested in coding
   
