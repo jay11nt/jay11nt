@@ -1,6 +1,6 @@
 -  Hi, I’m @jayant.
  
-- 👀 I’m interested in coding & debugging code very well
+- 👀 I’m interested in coding
   
 - 🌱 currently working on technologies Boot, Java, Hibernate, complete backend
  
