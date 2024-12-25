@@ -4,7 +4,7 @@
   
 - 🌱 currently working on technologies Boot, Java, Hibernate, complete backend
  
-- 💞️ I’m looking to collaborate on a level
+- 💞️ I’m looking to collaborate on a level project
  
 - 📫 How to reach me jayantingle13@gmail.com/ insta- mr.jayu_13
  
