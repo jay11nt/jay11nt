@@ -2,11 +2,11 @@
  
 - 👀 I’m interested in coding
   
-- 🌱 currently working on technologies Boot, Java, Hibernate, complete
+- 🌱 currently working on technologies Boot, Java, Hibernate, complete Backend
  
-- 💞️ I’m looking to collaborate on a level
+- 💞️ I’m looking to collaborate on a entry-level projects
  
-- 📫 How to reach me jayantingle13@gmail.com/ insta- mr.jayu_13
+- 📫 How to reach me jayantingle13@gmail.com/ Insta- mr.jayu_13
  
 - 😄 Pronouns: JAY
 
