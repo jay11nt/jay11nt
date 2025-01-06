@@ -15,7 +15,7 @@
 
 - ☺️ working on project **Resource management**
 
-- 🤝 I’m looking for help with **Backend projects**
+- 🤝 I’m looking for help with **Backend projects.**
 
 - 👨‍💻 All of my projects are available at [Github;](Github;)
 
