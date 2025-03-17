@@ -11,7 +11,7 @@
 ## 🔸 About :
 - 👉 I’m currently working at **💼 Phenix Technology ltd.**
 
-- 🌱 I’m currently learning **Tensorflow, Kafka, React;**
+- 🌱 I’m currently learning **Apigee, google cloud, Tensorflow;**
 
 - ☺️ working on project **Resource management**
 
