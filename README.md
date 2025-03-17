@@ -11,11 +11,11 @@
 ## 🔸 About :
 - 👉 I’m currently working at **💼 Phenix Technology ltd.**
 
-- 🌱 I’m currently learning **Apigee, google cloud, Tensorflow;**
+- 🌱 I’m currently learning **Apigee, Google Cloud, Tensorflow;**
 
 - ☺️ working on project **Resource management**
 
-- 🤝 I’m looking for help with **Backend projects.**
+- 🤝 I’m looking for help with **Backend projects + API's**
 
 - 👨‍💻 All of my projects are available at [Github;](Github;)
 
