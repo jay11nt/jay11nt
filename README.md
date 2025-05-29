@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
 
-- ☺️ working on project **Resource management**
+- ☺️ working project **Care-connect Insurance portal, Resource management**
 
 - 🤝 I’m looking for help with **Backend projects + API's**
 
@@ -25,7 +25,7 @@
 
 
 ## 📌 Experience :
-- **💼 Software Engineer - Phenix Technology ltd.**
+- **💼 Java Backend Developer - Phenix Technology ltd.**
 
 
 
