@@ -9,7 +9,7 @@
 
 
 ## 💫 About :
-- 👉 I’m currently working as a Java Backend Developer in **💼 Phenix Technology pvt ltd.**, working on the project **Care-connect Insurance portal, Resource management**, and i pursued my B.E. in ETC from RTM Nagpur University. I love to solve real-time Issues in a challenging environment. 
+- 👉 I’m currently working as a Java Backend Developer in **💼 Phenix Technology pvt ltd**, working on the project **Care-connect Insurance portal, Resource management**, and i pursued my B.E. in ETC from RTM Nagpur University. I love to solve real-time Issues in a challenging environment. 
 
 - 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
 
