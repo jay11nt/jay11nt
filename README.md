@@ -36,10 +36,10 @@
 - 📫 Reach me -> **jayant13ingle@gmail.com** 📧
   
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats :
 ![](https://nirzak-streak-stats.vercel.app/?user=jay11nt&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=jay11nt&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
