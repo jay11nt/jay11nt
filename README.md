@@ -13,15 +13,16 @@
 
 - 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
 
-- 👨‍💻 All of my projects are available at [Github;](Github;)
 
-- 💬 Ask me about anything, **I am happy to help;**
-
-- 📫 Reach me -> **jayant13ingle@gmail.com** 📧
 
 
 ## 📌 Experience :
 - **💼 Java Backend Developer - Phenix Technology ltd.**
+- - 👨‍💻 All of my projects are available at [Github;](Github;)
+
+- 💬 Ask me about anything, **I am happy to help;**
+
+- 📫 Reach me -> **jayant13ingle@gmail.com** 📧
 
 
 
