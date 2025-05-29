@@ -22,11 +22,6 @@
 
 ## 📌 Experience :
 - **💼 Java Backend Developer - Phenix Technology pvt ltd.**
-- All of my projects are available at [Github;](Github;)
-
-- 💬 Ask me about anything, **I am happy to help;**
-
-- 📫 Reach me -> **jayant13ingle@gmail.com** 📧
 
 
 
@@ -34,6 +29,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr.jayu_13) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jayant-ingle/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/jayant13ingle@gmail.com) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+- All of my projects are available at [Github;](Github;)
+- 💬 Ask me about anything, **I am happy to help;**
+- 📫 Reach me -> **jayant13ingle@gmail.com** 📧
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jay11nt&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
