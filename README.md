@@ -22,8 +22,8 @@
 
 
 
-## 📌 Experience :
-- **💼 Java Backend Developer - Phenix Technology pvt ltd.**
+## 💼 Work Experience :
+- **Java Backend Developer - Phenix Technology pvt ltd.**
 
 
 
