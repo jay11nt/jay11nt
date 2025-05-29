@@ -11,7 +11,7 @@
 ## 💫 About :
 - 👉 I’m currently working as a Java Backend Developer in **💼 Phenix Technology pvt ltd**, working on the project **Care-connect Insurance portal, Resource management**, and i pursued my B.E. in ETC from RTM Nagpur University. I love to solve real-time Issues in a challenging environment. 
 
-- 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
+- I’m currently learning **Azure Deployment, Tensorflow;**
 
 ## 💻 Skills :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
@@ -26,9 +26,6 @@
 - 💬 Ask me about anything, **I am happy to help;**
 
 - 📫 Reach me -> **jayant13ingle@gmail.com** 📧
-
-
-
 
 
 
