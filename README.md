@@ -11,7 +11,7 @@
 ## 🔸 About :
 - 👉 I’m currently working at **💼 Phenix Technology ltd.**
 
-- 🌱 I’m currently learning **Tensorflow;**
+- 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
 
 - ☺️ working on project **Resource management**
 
