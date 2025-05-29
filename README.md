@@ -9,13 +9,9 @@
 
 
 ## 🔸 About :
-- 👉 I’m currently working at **💼 Phenix Technology ltd.**
+- 👉 I’m currently working at **💼 Phenix Technology ltd.** , working project **Care-connect Insurance portal, Resource management**
 
 - 🌱 I’m currently learning **Azure Deployment, Tensorflow;**
-
-- ☺️ working project **Care-connect Insurance portal, Resource management**
-
-- 🤝 I’m looking for help with **Backend projects + API's**
 
 - 👨‍💻 All of my projects are available at [Github;](Github;)
 
