@@ -21,8 +21,8 @@
 
 
 ## 📌 Experience :
-- **💼 Java Backend Developer - Phenix Technology ltd.**
-- - 👨‍💻 All of my projects are available at [Github;](Github;)
+- **💼 Java Backend Developer - Phenix Technology pvt ltd.**
+- All of my projects are available at [Github;](Github;)
 
 - 💬 Ask me about anything, **I am happy to help;**
 
