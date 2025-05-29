@@ -32,6 +32,10 @@
 - All of my projects are available at [Github;](Github;)
 - 💬 Ask me about anything, **I am happy to help;**
 - 📫 Reach me -> **jayant13ingle@gmail.com** 📧
+  
+
+## 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=jay11nt&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jay11nt&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
