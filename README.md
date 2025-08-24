@@ -23,7 +23,7 @@
 
 
 ## 💼 Work Experience :
-- **Java Backend Developer - Phenix Technology pvt ltd.**
+- **Java Backend Developer - Codenix Software pvt ltd.**
 
 
 
