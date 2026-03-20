@@ -9,7 +9,7 @@
 
 
 ## 💫 About :
-- 👉 I’m currently working as a Java Backend Developer in **💼 Codenix Software pvt ltd**, working on the project **MediPulse HMS, Resource management**, and i pursued my B.E. in ETC from RTM Nagpur University. I love to solve real-time Issues in a challenging environment. 
+- 👉 I’m currently working as a Java Backend Developer in **💼 Codenix Software pvt. ltd**, working on the project **MediPulse HMS, Resource management**, and i pursued my B.E. in ETC from RTM Nagpur University. I love to solve real-time Issues in a challenging environment. 
 
 - I’m currently learning **AI integration with backend servics, Cloud Deployment;**
 
