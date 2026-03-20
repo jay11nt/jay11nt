@@ -1,7 +1,7 @@
 ![Welcome !](https://github.com/user-attachments/assets/56564a5f-5df7-47a3-bb0a-90dd036bfad7)
 
 
-<h1 align="center">Hi 👋 I'm Jayant Ingle</h1>
+<h1 align="center">Hi  I'm Jayant Ingle</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay11nt&label=Profile%20views&color=0e75b6&style=flat" alt="jay11nt" /> </p>
